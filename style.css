@@ -1,0 +1,15 @@
+.body{
+    background-color:#c7414a;
+}
+#update-score{
+    font-size: 15px;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 15px;
+    float:right;
+    margin-right: 15px;
+}
+#name-of-sketch{
+    
+}
